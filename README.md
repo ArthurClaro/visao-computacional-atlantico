@@ -44,7 +44,7 @@ Em Metodologia decidir colocar uma parte da nossa apresentação onde nosso pare
 
 
 
-Team = Gabriel Damasceno Guimarães Ponte , Marcos Paulo Rocha Rodrigues , Thales Félix , Francisco Das Chagas
+Team = Gabriel Damasceno Guimarães Ponte , Marcos Paulo Rocha Rodrigues , Thales Félix , Francisco Das Chagas ,  Mateus Felinto
 
 ## [Publicação em Vídeo 🎬](https://www.linkedin.com/posts/arthur-claro-dev_%C3%A9-com-muito-orgulho-que-compartilho-o-projeto-activity-7114661654881050624-ZAko?utm_source=share&utm_medium=member_desktop)
 
